@@ -1,8 +1,17 @@
 # Crypto-Tracker
 
+[![GitHub stars](https://img.shields.io/github/stars/Harsh1260/crypto-tracker?style=social)](https://github.com/Harsh1260/crypto-tracker/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Harsh1260/crypto-tracker?style=social)](https://github.com/Harsh1260/crypto-tracker/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Harsh1260/crypto-tracker)](https://github.com/Harsh1260/crypto-tracker/issues)
+[![LinkedIn](https://img.shields.io/badge/Connect-Harsh%20Jain-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-jain-b071b424a/)
+![Visitor Count](https://komarev.com/ghpvc/?username=Harsh1260&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 A responsive application that simulates **real-time cryptocurrency price tracking** similar to CoinMarketCap. It features a clean, interactive UI, live updates via a simulated WebSocket, and full state management using Redux Toolkit.
 
-🌐 **Live Demo**: [https://crypto-tracker-hj.vercel.app]
+🌐 **Live Demo**: [Vercel](https://crypto-tracker-gilt-alpha.vercel.app/)
+
 ---
 
 ## 🎯 Objective
@@ -16,9 +25,9 @@ Build a modern front-end application that:
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: [Next.js 14]
-- **React**: [React 18]
-- **Language**: [TypeScript]
+- **Frontend**: Next.js 14
+- **React**: React 18
+- **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **State Management**: Redux Toolkit
 - **Mocking**: `setInterval` for WebSocket simulation
@@ -31,7 +40,7 @@ Build a modern front-end application that:
   - 🟢 Green = Positive
   - 🔴 Red = Negative
 - Fully **responsive design**
-- **Static 7D chart** 
+- **Static 7D chart**
 
 ### 🔄 Real-Time Updates
 - Simulated using `setInterval`
@@ -52,7 +61,7 @@ Build a modern front-end application that:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/crypto-tracker.git
+git clone https://github.com/Harsh1260/crypto-tracker.git
 cd crypto-tracker
 
 # 2. Install dependencies
