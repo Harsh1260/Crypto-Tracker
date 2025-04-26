@@ -27,10 +27,6 @@ Build a modern front-end application that:
 
 ## 🧱 Features
 
-### 📊 Crypto Table UI
-| # | Logo | Name | Symbol | Price | 1h % | 24h % | 7d % | Market Cap | 24h Volume | Circulating Supply | Max Supply | 7D Chart |
-|---|------|------|--------|-------|------|--------|------|-------------|-------------|---------------------|-------------|-----------|
-
 - Color-coded % changes:
   - 🟢 Green = Positive
   - 🔴 Red = Negative
