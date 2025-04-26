@@ -11,6 +11,7 @@
 A responsive application that simulates **real-time cryptocurrency price tracking** similar to CoinMarketCap. It features a clean, interactive UI, live updates via a simulated WebSocket, and full state management using Redux Toolkit.
 
 🌐 **Live Demo**: [Vercel](https://crypto-tracker-gilt-alpha.vercel.app/)
+**Video Demo**: [Drive Link}(https://drive.google.com/file/d/1Qj1SBMsNiTnL2HiU5Uew5OEOd8UIWGXS/view?usp=sharing)
 
 ---
 
